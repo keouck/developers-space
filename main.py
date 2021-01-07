@@ -75,6 +75,8 @@ async def on_message(message):
   
   elif main_arg == "!help":
     await message.channel.send(help_text)
+  elif main_arg == "!NoHi":
+    await message.channel.send('')
 
   # logging
 
