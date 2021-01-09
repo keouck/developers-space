@@ -1,0 +1,26 @@
+```Help```
+Brings you here
+
+
+```Welcome to DS```
+Output: Hai whale come :whale: to DS! What language are you learning?
+
+
+```to the guillotines!```
+Output: Haha joke stealing go brrrrrr
+
+
+```im sad```
+Output: ***sed***
+
+
+```elo/ello```
+Output: Hai
+
+
+```https://tenor.com/view/revive-rise-up-dancing-dorito-dance-i-revive-this-chat-gif-16381411'```
+Output: Haha joke stealing go brrrrrr
+
+
+```!perms```
+Output: Amay has no perms :{
